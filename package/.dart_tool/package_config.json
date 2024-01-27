@@ -1,0 +1,32 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "__a_test",
+      "rootUri": "../../../a/package",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "__b_test",
+      "rootUri": "../../../b/package",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "very_good_analysis",
+      "rootUri": "file:///Users/ryanhanks/.pub-cache/hosted/pub.dev/very_good_analysis-5.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "__c_test",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    }
+  ],
+  "generated": "2024-01-27T08:27:31.242034Z",
+  "generator": "pub",
+  "generatorVersion": "3.3.0-279.0.dev"
+}
